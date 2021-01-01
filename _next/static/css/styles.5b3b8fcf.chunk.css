@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #f7f8f9;
+  scroll-behavior: smooth; 
+}
+
+h1, span, div {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+ul, ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: black
+}
